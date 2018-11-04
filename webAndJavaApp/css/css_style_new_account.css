@@ -1,0 +1,136 @@
+body
+{
+   
+    background-color:#f4f4f4;
+	color: #555555;
+
+    
+}
+
+#cust-jumbotron
+{
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+div .container >h2 
+
+{
+    font-size: 40px;
+    
+}
+
+
+div .container > p
+{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+div .col-md-8 > div
+{
+       
+    background-color:#f4f4f4;
+	color: #555555;
+    
+    
+
+    
+}
+
+div .col-md-4 > div
+{
+       
+    background-color:#f4f4f4;
+	color: #555555;
+    
+    
+
+    
+}
+
+div.thumbnail
+{
+    padding-bottom: 50px;
+    border: none;
+}
+
+
+
+ul.list-group > li
+{
+    padding: 25px !important;
+    border:none;
+}
+
+
+
+
+.color-cust
+{
+      background-color:#f4f4f4;
+	color: #555555;
+
+}
+
+
+.resize
+{
+    width: 90%;
+    margin: auto;
+}
+
+div> form
+{
+    margin-top: 60px;
+}
+
+
+
+.alligning-text
+{
+    display: block;
+    text-align: center;
+}
+
+
+
+
+
+.form-control
+{
+    padding: 20px 23px;
+}
+
+
+input {
+   
+    padding: 0 17px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 17px;
+    line-height: 2;
+}
+
+
+
+
+li
+{
+        background-color:#f4f4f4 !important;
+	color: #555555 !important;
+
+    
+}
+
+ul  >li
+{
+    font-size: 18px !important;
+}

@@ -1,0 +1,75 @@
+    padding: 0;
+    padding-bottom: 10px;
+}
+
+div .jumbotron
+{
+    border: none;
+    margin-top: 40px;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+   
+}
+
+
+.thumbnail
+{
+    background-color: #f4f4f4;
+    margin-top: 40px;
+    border: none;
+}
+
+#style_thumbnail
+{
+    border: none;
+}
+
+h2
+{
+    padding-left: 100px;
+    color: 	#696969;
+    
+}
+
+
+h1
+{
+    margin-top: 10px;
+   margin-bottom: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+
+
+
+.row
+{
+    margin: auto;
+    margin-right: 40px;
+}
+
+
+
+#style_description
+{
+    padding-top: 3px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+
+#paragraph_description_style
+{
+ padding-bottom: 30px;
+ 
+ margin:0 30px;
+
+}
+
+
+#btn_style
+{
+    margin-left: 110px;
+    margin-top: 20px;
+}

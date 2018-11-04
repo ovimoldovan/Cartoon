@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="core-3.3.0">
+    <CLASSES>
+      <root url="jar://D:/core-3.3.0.jar!/" />
+      <root url="jar://D:/javase-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

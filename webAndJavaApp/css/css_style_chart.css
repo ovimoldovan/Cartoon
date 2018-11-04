@@ -1,0 +1,68 @@
+.panel-body
+{
+   /*border: 2px solid black;*/
+    padding: 10px;
+}
+
+.panel-footer
+{
+   /*border: 2px solid black;*/
+    padding: 10px;
+}
+
+
+#body_style
+{
+    background-color: black	#F5F5F5;
+  
+}
+
+
+
+#style_panel
+{
+    
+    margin: 60px 20px;
+    padding: 10px 20px;
+    
+}
+
+
+#style_input
+{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 0;
+    widows: 30%;
+    width: 40px;
+    height: 40px;
+    font-size: 10;
+    margin-top: 15px;
+}
+
+
+#btn_style
+{
+    position: relative;
+    padding: 20px;
+    margin: 20px;
+    left: 1600px;
+   font-size: 20;
+    
+}
+
+
+#style_incercare
+{
+    border: black 2px solid;
+}
+
+
+#style_return_princPage_btn
+{
+    background-color: darkgray;
+    margin-left: 80%;
+    border-radius: 10px;
+    padding: 13px;
+    font-size: 30px;
+}
